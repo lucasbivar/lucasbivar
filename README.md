@@ -12,6 +12,8 @@ Currently, I'm in first term of Computer Engineering at Federal Institute of Par
   - Flutter
   - Arduino
   - Git
+  - HTML 5
+  - CSS 3
   
 ## Get in touch:
 
