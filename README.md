@@ -4,7 +4,7 @@
 
 # Hey there 👋
 
-Currently, I'm in first term of Computer Engineering at Federal Institute of Paraíba (IFPB) and I'm a researcher in the field of educational chatbots. I love solving problems using programming and I'm very interested in Computer Vision, Robotics, Software Engineering and Artificial Intelligence. I'm very proactive and I love teamwork. Be free to contact me :)
+Currently, I'm in second term of Computer Engineering at Federal Institute of Paraíba (IFPB) and I'm a researcher in the field of educational chatbots. I love solving problems using programming and I'm very interested in Computer Vision, Robotics, Software Engineering and Artificial Intelligence. I'm very proactive and I love teamwork. Be free to contact me :)
 
 ## Languages and Tools:
   - Python 3
