@@ -9,11 +9,12 @@ Currently, I'm in second term of Computer Engineering at Federal Institute of Pa
 ## Languages and Tools:
   - Python 3
   - C++
-  - Flutter
   - Arduino
+  - Javascript
+  - Flutter
   - Git
   - VSCode
-  - Web Technologies (HTML5, CSS3, Bootstrap, Javascript, JQuery)
+  - Web Technologies (HTML5, CSS3, Bootstrap, JQuery)
   
 ## Get in touch:
 
