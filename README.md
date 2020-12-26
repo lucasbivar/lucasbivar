@@ -11,7 +11,6 @@ Currently, I'm in second term of Computer Engineering at Federal Institute of Pa
   - C++
   - Arduino
   - Javascript
-  - Flutter
   - Git
   - VSCode
   - Web Technologies (HTML5, CSS3, Bootstrap, JQuery)
