@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="https://github.com/lucasbivar/lucasbivar/blob/main/capa.gif?raw=true">&nbsp;&nbsp;
+<img src="https://i.imgur.com/JE3nNcJ.gif">&nbsp;&nbsp;
 </p>
 
 # Hey there 👋
