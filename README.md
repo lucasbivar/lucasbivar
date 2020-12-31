@@ -12,7 +12,6 @@ Currently, I'm in second term of Computer Engineering at Federal Institute of Pa
   - Arduino
   - Node.js
   - Git
-  - VSCode
   - Web Technologies (HTML5, CSS3, Bootstrap, JQuery, Javascript, EJS, Express)
   
 ## Get in touch:
