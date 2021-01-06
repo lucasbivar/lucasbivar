@@ -26,8 +26,8 @@ Currently, I'm in second term of Computer Engineering at Federal Institute of Pa
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbivar&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/?username=lucasbivar&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/></td>
+        <td><img width="463px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbivar&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
+        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api/?username=lucasbivar&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/></td>
     </tr>   
 </table>
 </center>  
