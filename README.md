@@ -6,7 +6,11 @@
 
 <p align="center">Currently, I'm in second term of Computer Engineering at Federal Institute of Paraíba (IFPB) and I'm a researcher in the field of educational chatbots. I love solving problems using programming and I'm very interested in Computer Vision, Robotics, Software Engineering and Artificial Intelligence. I'm very proactive and I love teamwork. Be free to contact me :) </p>
 
+<br>
+
 <h2 align="center"> Languages and Tools: </h2>
+
+
 
 <p align="center">
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/python/python-original.svg">
@@ -25,7 +29,10 @@
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </p>
 
+<br>
+
 <h2 align="center">Get in touch:</h2>
+
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/lucasbivar">
@@ -35,6 +42,8 @@
 <img src="https://img.shields.io/badge/-lucassbivar_-black?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sidbelbase/" alt="Instagram Badge">
 </a>
 </p>
+
+<br>
 
 <table>
     <tr>
