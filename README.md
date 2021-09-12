@@ -41,8 +41,8 @@
 <a target="_blank" href="https://www.instagram.com/lucassbivar_/">
 <img src="https://img.shields.io/badge/-lucassbivar_-black?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sidbelbase/" alt="Instagram Badge">
 </a>
-<a target="_blank" href="https://www.instagram.com/lucassbivar_/">
-<img src="https://img.shields.io/badge/-RESUME (EN)-black?style=for-the-badge&link=https://instagram.com/sidbelbase/" alt="Resume Badge">
+<a target="_blank" href="https://github.com/lucasbivar/lucasbivar/blob/main/lucas_cv_EN.pdf">
+<img src="https://img.shields.io/badge/-RESUME (EN)-black?style=for-the-badge&link=https://github.com/lucasbivar/lucasbivar/blob/main/lucas_cv_EN.pdf" alt="Resume Badge">
 </a>
 
 </p>
