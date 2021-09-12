@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/-RESUME (EN)-black?style=for-the-badge&link=https://github.com/lucasbivar/lucasbivar/blob/main/lucas_cv_EN.pdf" alt="Resume Badge">
 </a>
 <a target="_blank" href="https://github.com/lucasbivar/lucasbivar/blob/main/lucas_cv_PT.pdf">
-<img src="https://img.shields.io/badge/-RESUME (EN)-black?style=for-the-badge&link=https://github.com/lucasbivar/lucasbivar/blob/main/lucas_cv_PT.pdf" alt="Resume Badge">
+<img src="https://img.shields.io/badge/-RESUME (PT)-black?style=for-the-badge&link=https://github.com/lucasbivar/lucasbivar/blob/main/lucas_cv_PT.pdf" alt="Resume Badge">
 </a>
   
 </p>
