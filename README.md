@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hey there 👋 </h1>
 
-<p align="center">Currently, I'm in third term of Computer Engineering at Federal Institute of Paraíba (IFPB) and I'm a researcher fellow in the field of educational chatbots. I love solving problems using programming and I'm very interested in Software Engineering, Web development, Computer Vision, Artificial Intelligence, Data Structures and Algorithms. I'm very proactive and I love teamwork. Be free to contact me :) </p>
+<p align="center">Currently, I'm in third term of Computer Engineering at Federal Institute of Paraíba (IFPB) and I'm a researcher fellow in the field of educational chatbots. I love solving problems using programming and I'm very interested in Software Engineering, Web development, Artificial Intelligence, Data Structures and Algorithms. I'm very proactive and I love teamwork. Be free to contact me :) </p>
 
 <br>
 
