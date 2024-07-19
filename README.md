@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hey there 👋 </h1>
 
-<p align="center">Currently, I'm in eighth term of Computer Engineering at Federal Institute of Paraíba (IFPB). I love solving problems using programming and I'm very interested in Software Engineering, Web development, Data Structures and Algorithms. I'm very proactive and I love teamwork. Be free to contact me :) </p>
+<p align="center">Currently, I'm in ninth term of Computer Engineering at Federal Institute of Paraíba (IFPB). I love solving problems using programming and I'm very interested in Software Engineering, Web development, Data Structures and Algorithms. I'm very proactive and I love teamwork. Be free to contact me :) </p>
 
 <br>
 
