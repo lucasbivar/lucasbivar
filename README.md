@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hey there 👋 </h1>
 
-<p align="center">Currently, I'm in tenth term of Computer Engineering at Federal Institute of Paraíba (IFPB). I love solving problems using programming and I'm very interested in Software Engineering, Web development, Data Structures and Algorithms. I'm very proactive and I love teamwork. Be free to contact me :) </p>
+<p align="center">I am currently working as a Mid Software Engineer at Quave and have a degree in Computer Engineering from the Instituto Federal da Paraíba (IFPB). I love solving problems using programming and I'm very interested in Software Engineering, Web development, Data Structures and Algorithms. I'm very proactive and I love teamwork. Be free to contact me :) </p>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 
 
-<p align="center">
+<p align="center"> 
   <img width="44px" src="https://i.imgur.com/BgjSjn9.png">
   <img width="45px" src="https://i.imgur.com/o4FSeZ6.png">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
